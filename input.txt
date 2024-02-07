@@ -1,0 +1,7 @@
+Allocate a (500)
+Allocate b (800)
+Allocate c (700)
+Assignment (x, a)
+Deallocate (a)
+Deallocate (b)
+Print

@@ -1,0 +1,8 @@
+Used blocks:
+Start address: 0, Size: 500, Ref count: 1, Names: x 
+Start address: 1300, Size: 700, Ref count: 1, Names: c 
+
+Free blocks:
+Start address: 2000, Size: 67106864
+Start address: 500, Size: 800
+----------------------------------------------------------------------------------------------------------
